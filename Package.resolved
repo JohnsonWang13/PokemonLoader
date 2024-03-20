@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "network",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JohnsonWang13/Network",
+      "state" : {
+        "revision" : "d86246d5a202dda25394985a4642eadddf804783",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "testhelper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JohnsonWang13/TestHelper",
+      "state" : {
+        "revision" : "4889185bc8ec4084d71ad3639a986daf70492225",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
